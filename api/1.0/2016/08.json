@@ -1,6 +1,24 @@
 {
   "August": [
     {
+      "title": "IncubateDFW",
+      "url": "http://incubatex.org/dfw/",
+      "startDate": "August 6",
+      "endDate": "August 7",
+      "year": "2016",
+      "city": "Dallas, TX, United States",
+      "host": "SecondGen",
+      "length": "24",
+      "size": "150",
+      "travel": "no",
+      "prize": "yes",
+      "highSchoolers": "yes",
+      "facebookURL": "https://www.facebook.com/incubateDFW/?fref=ts",
+      "twitterURL": "https://twitter.com/IncubateDFW",
+      "googlePlusURL": "",
+      "notes": ""
+    },
+    {
       "title": "HackCortona",
       "url": "http://hackcortona.com",
       "startDate": "August 6",
